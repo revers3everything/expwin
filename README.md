@@ -2,7 +2,7 @@
 ![Tool](expwin.png)
 
 ## 📜 Description
-This tool helps automate the process of building exploits to target **stack buffer overflow vulnerabilities** in Windows binaries.
+This tool helps automate the process of building exploits to target **uffer overflow vulnerabilities** in Windows binaries.
 
 Currently, the tool is in its **first development phase**: it does **not** interact directly with memory or any debugger. Instead, it assists exploit writers by **simplifying and speeding up the process of crafting their initial exploit scripts**.
 
