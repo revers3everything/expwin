@@ -1,4 +1,4 @@
-# ExpWin: Stack Buffer Overflow Exploit Builder (Early Version)
+# ExpWin: Buffer Overflow Exploit Builder (Early Version)
 ![Tool](expwin.png)
 
 ## 📜 Description
