@@ -13,6 +13,8 @@ Currently, the tool is in its **first development phase**: it does **not** inter
   pip install keystone-engine
   pip install numpy
 
+- Run the tool in a Kali Linux machine
+
 ## How to Use
 ![Tool presentation](flisol2025.png)
 
