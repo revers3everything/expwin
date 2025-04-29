@@ -26,6 +26,6 @@ This tool is intended only for educational and ethical hacking purposes.
 The creator is not responsible for any misuse of this tool.
 
 ## Author
-By Danilo Erazo
-This tool was presented at FLISoL Quito 2025.
+By Danilo Erazo - @revers3vrything. 
+This tool was presented in live at FLISoL Quito 2025.
 
